@@ -1,5 +1,3 @@
-// app/api/admin/login/route.ts
-
 export const runtime = "nodejs";
 
 import { cookies } from "next/headers";
